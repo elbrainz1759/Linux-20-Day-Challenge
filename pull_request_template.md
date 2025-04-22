@@ -14,7 +14,6 @@ Modifyinf files and directories.
 ## Blog Post
 If you wrote a blog post about today’s task, include the link here:
 - [Link to your blog post]
-
 _NB: Writing a short post might be a required task on some days._
 
 ## Changes Made

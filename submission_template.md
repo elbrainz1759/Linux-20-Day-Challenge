@@ -1,13 +1,11 @@
-## Day 1: Getting Started With The Basics
+## Day X: Title
 
 ### Participant Details
 __Name:__ Occupy TheWeb
 __Date and Time:__ 2025-04-23 00:30 GMT +1
 
 ### Task Completed:
-- Read Chapter 1
-- Watched Additonal Videos
-- Created files and directory using linux command lines
+- [List of tasks you were able to complete]
 
 ### Additional Notes
 [Any additional comments or observations about the task]

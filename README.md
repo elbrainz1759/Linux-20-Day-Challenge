@@ -31,8 +31,8 @@ How to Get Started
 Clone Your Fork
 
 2. Open your terminal and clone your forked repository:
-- `git clone https://github.com/{yourusername}/30-Day-Terraform-challenge-.git`
-- `cd linux-20-day-challenge`
+- `git clone https://github.com/{yourusername}/Linux-20-Day-Challenge`
+- `cd Linux-20-Day-Challenge`
 
 3. For each day’s task, create a new branch. For example, for Day 1, run:
 `git checkout -b day1-the-basics`
