@@ -18,7 +18,7 @@ This is the repository for all the challenge, including resources, daily tasks, 
 - Complete the daily tasks and submit your progress through pull requests.
 
 ## 📧 Contact Us
-- If you have any questions or need help, please ask on the community slack channel.
+- If you have any questions or need help, please ask on the [community slack channel](https://join.slack.com/t/yamlopscommunity/shared_invite/zt-33itgf1zq-Vt7rTODTImQ6r8P_rGuM2g). 
 
 ---
 
