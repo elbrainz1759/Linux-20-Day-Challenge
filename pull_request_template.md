@@ -20,8 +20,8 @@ _NB: Writing a short post might be a required task on some days._
 - [Branch specific changes made]
 
 ## Checklist
-- [x] I have completed the task as described in `DayX/tasks.md`.
-- [x] I have updated the `daily-update.md` file with my details.
+- [x] I have completed the tasks as described in `DayX/tasks.md`.
+- [x] I have updated the `submissions/{your-username}-submission.md` file with my details.
 - [x] I have followed the repository's contribution guidelines.
 
 ## Notes
